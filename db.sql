@@ -1,0 +1,1 @@
+INSERT INTO `naver` (`id`, `userid`, `userpw`, `name`, `email`) VALUES (2, 'b', 'b', '비 이', 'b@b.com');
